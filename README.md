@@ -43,11 +43,11 @@ Developed an interactive business intelligence dashboard to analyze sales perfor
 * Highlighted underperforming segments for business improvement
 
 ---
-
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
-
+<p align="center">
+  <img src="dashboard.png.png" width="800"/>
+</p>
 ---
 
 ## 📂 Project Files
